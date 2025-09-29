@@ -1,0 +1,1 @@
+# An-lisis-de-concentradores-de-esfuerzo-en-un-eje-usando-el-m-todo-de-los-elementos-finitos
